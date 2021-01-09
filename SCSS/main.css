@@ -1,0 +1,89 @@
+body {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Playfair Display', serif;
+}
+
+a, a:hover {
+  text-decoration: none;
+}
+
+button {
+  font-family: 'Playfair Display', serif;
+}
+
+button:focus {
+  outline: none;
+}
+
+li {
+  list-style: none;
+}
+
+.peri {
+  color: tomato;
+  letter-spacing: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.para {
+  color: lightcoral;
+}
+
+.par {
+  background-color: linen;
+  color: maroon;
+}
+
+.pa {
+  background-color: lime;
+  color: linen;
+  text-transform: capitalize;
+}
+
+button {
+  background-color: transparent;
+}
+
+.border {
+  background-color: linen;
+}
+
+.bord {
+  background-color: lightsalmon;
+}
+
+.rem {
+  color: brown;
+}
+
+.re {
+  color: blue;
+}
+
+.first-image {
+  width: 250px;
+  height: 150px;
+  border: 3px solid gray;
+}
+
+.second-image {
+  width: 250px;
+  height: 150px;
+  border: 3px solid yellowgreen;
+}
+
+#btn {
+  background-color: transparent;
+  padding: 1rem;
+  color: lightcoral;
+  border-color: lightgray;
+}
+
+.hide {
+  display: none;
+}
+/*# sourceMappingURL=main.css.map */
